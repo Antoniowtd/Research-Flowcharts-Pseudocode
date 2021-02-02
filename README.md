@@ -15,9 +15,9 @@ Is a **series of steps** that you have to follow in order to comple a task.
 
 ### Differentiate control structures in the design and construction of an algorithm:
 
-__Nested structures__: default mode. Sequential execution of code statements (one line after another) -- like following a recipe
+- __Nested structures__: default mode. Sequential execution of code statements (one line after another) -- like following a recipe
 
-__Selective structures__: used for decisions, branching -- choosing between 2 or more alternative paths. In C++, these are the types of selection statements:
+- __Selective structures__: used for decisions, branching -- choosing between 2 or more alternative paths. In C++, these are the types of selection statements:
 
 if
 if/else
@@ -29,9 +29,9 @@ do/while
 for
 
 ### Describe the types of algorithm representation:
--Pseudo code is a high-level design of a program or algorithm. Sequence and selection are two constructs used in pseudo code.
+- Pseudo code is a high-level design of a program or algorithm. Sequence and selection are two constructs used in pseudo code.
 
--Flowchart: A flowchart is a graphical representation of an algorithm. It makes use of symbols which are connected among them to indicate the flow of information and processing.
+- Flowchart: A flowchart is a graphical representation of an algorithm. It makes use of symbols which are connected among them to indicate the flow of information and processing.
 
 # Data types and expressions: 
 ### Define the characteristics of the variables and constants
