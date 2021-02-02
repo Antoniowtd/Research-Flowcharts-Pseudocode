@@ -39,8 +39,8 @@ for
 
 ### Types of computational data:
 - Numeric: It refers to all the dta represented with numbers.
-- Logic:
-- String and characters:
+- Logic: It means all the data described as much as possible
+- String and characters: It is used to 
 - Arrangements:
 
 ### Representation of computational data:
