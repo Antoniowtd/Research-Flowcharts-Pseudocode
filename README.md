@@ -18,9 +18,9 @@ Is a **series of steps** that you have to follow in order to comple a task.
 # Algorithm representation:
 
 ### Differentiate control structures in the design and construction of an algorithm:
-- Selective structures
-- Repetitive structures
-- nested structures
+- Selective structures:
+- Repetitive structures:
+- nested structures:
 
 ### Describe the types of algorithm representation:
 - Graph: Flow chart
