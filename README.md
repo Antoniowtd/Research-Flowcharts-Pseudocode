@@ -40,14 +40,14 @@ for
 ### Types of computational data:
 - Numeric: It refers to all the dta represented with numbers.
 - Logic: It means all the data described as much as possible
-- String and characters: It is used to 
-- Arrangements:
+- String and characters: Strngs refers to the integration of text, and characters are any kind of letter, number or symble that can be written.
+- Arrangements: It means put thing in an specific order
 
 ### Representation of computational data:
 - Variables
-
+Is a value that can change dependending of certain factors.
 - Constants
-
+In the other hand this are elements that will not change, they will remain the same.
 ### Types of computational operations:
 Operators:
 - Arithmetic
