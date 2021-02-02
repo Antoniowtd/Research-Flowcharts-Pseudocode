@@ -69,3 +69,8 @@ __Expressions__:
 - Arithmetic: An arithmetic expression evaluates to a single arithmetic value.
 
 - Logic: A logical expression evaluates to a single logical value.
+
+# Flowcharts: 
+![GitHub flowchart1](/images/flowchart1.png)
+
+
