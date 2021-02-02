@@ -70,7 +70,5 @@ __Expressions__:
 
 - Logic: A logical expression evaluates to a single logical value.
 
-# Flowcharts: 
-![GitHub flowchart1](/images/flowchart1.png)
 
 
