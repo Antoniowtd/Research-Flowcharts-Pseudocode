@@ -23,7 +23,7 @@ if
 if/else
 switch
 
--**Repetitive structures** used for looping, i.e. repeating a piece of code multiple times in a row. In C++, there are three types of loops:
+- **Repetitive structures** used for looping, i.e. repeating a piece of code multiple times in a row. In C++, there are three types of loops:
 
 while
 do/while
