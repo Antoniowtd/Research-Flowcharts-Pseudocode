@@ -37,6 +37,7 @@ Is a **series of steps** that you have to follow in order to comple a task.
 
 ### Representation of computational data:
 -Variables
+
 -Constants
 
 ### Types of computational operations:
