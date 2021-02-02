@@ -49,14 +49,23 @@ Is a value that can change dependending of certain factors.
 - Constants
 In the other hand this are elements that will not change, they will remain the same.
 ### Types of computational operations:
-Operators:
-- Arithmetic
-- Logic
-- Relationships
-Operands:
--Variables
--Constants
-Expressions:
-- Arithmetic
-- Logic
 
+__Operators__:
+
+- Arithmetic: Arithmetic operators are used to perform arithmetic operations on variables and data.
+
+- Logic Logical operators are used to check whether an expression is true or false.
+
+ - Relationships Relational operators are used to check the relationship between two operands. 
+
+__Operands__:
+
+-Variables: A variable is a data item whose value can change during the program's execution. 
+
+-Constants: A constant is a data item whose value cannot change during the program's execution. 
+
+__Expressions__:
+
+-Arithmetic: An arithmetic expression evaluates to a single arithmetic value.
+
+-Logic: A logical expression evaluates to a single logical value.
