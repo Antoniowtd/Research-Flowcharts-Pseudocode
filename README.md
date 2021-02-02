@@ -41,7 +41,7 @@ for
 - Numeric: It refers to all the dta represented with numbers.
 - Logic: It means all the data described as much as possible
 - String and characters: Strngs refers to the integration of text, and characters are any kind of letter, number or symble that can be written.
-- Arrangements: It means put thing in an specific order
+- Arrangements: It means putting in an specific order
 
 ### Representation of computational data:
 - Variables
@@ -60,12 +60,12 @@ __Operators__:
 
 __Operands__:
 
--Variables: A variable is a data item whose value can change during the program's execution. 
+- Variables: A variable is a data item whose value can change during the program's execution. 
 
--Constants: A constant is a data item whose value cannot change during the program's execution. 
+- Constants: A constant is a data item whose value cannot change during the program's execution. 
 
 __Expressions__:
 
--Arithmetic: An arithmetic expression evaluates to a single arithmetic value.
+- Arithmetic: An arithmetic expression evaluates to a single arithmetic value.
 
--Logic: A logical expression evaluates to a single logical value.
+- Logic: A logical expression evaluates to a single logical value.
