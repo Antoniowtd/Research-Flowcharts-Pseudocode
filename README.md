@@ -29,22 +29,23 @@ do/while
 for
 
 ### Describe the types of algorithm representation:
-- Graph: Flow chart
-- Written: pseudocode ** 
+-Pseudo code is a high-level design of a program or algorithm. Sequence and selection are two constructs used in pseudo code.
+
+-Flowchart: A flowchart is a graphical representation of an algorithm. It makes use of symbols which are connected among them to indicate the flow of information and processing.
 
 # Data types and expressions: 
 ### Define the characteristics of the variables and constants
 
 ### Types of computational data:
-- Numeric
-- Logic
-- String and characters
-- Arrangements
+- Numeric: It refers to all the dta represented with numbers.
+- Logic:
+- String and characters:
+- Arrangements:
 
 ### Representation of computational data:
--Variables
+- Variables
 
--Constants
+- Constants
 
 ### Types of computational operations:
 Operators:
