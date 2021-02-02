@@ -15,12 +15,24 @@ Is a **series of steps** that you have to follow in order to comple a task.
 
 - It should have a well define input and output
 
+- They shuould have a definte number of steps
+
 # Algorithm representation:
 
 ### Differentiate control structures in the design and construction of an algorithm:
-- Selective structures:
-- Repetitive structures:
-- nested structures:
+
+__Nested structures__: default mode. Sequential execution of code statements (one line after another) -- like following a recipe
+
+__Selective structures__: used for decisions, branching -- choosing between 2 or more alternative paths. In C++, these are the types of selection statements:
+
+if
+if/else
+switch
+**Repetitive structures** used for looping, i.e. repeating a piece of code multiple times in a row. In C++, there are three types of loops:
+
+while
+do/while
+for
 
 ### Describe the types of algorithm representation:
 - Graph: Flow chart
