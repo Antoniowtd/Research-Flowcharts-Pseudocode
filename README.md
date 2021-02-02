@@ -40,7 +40,7 @@ for
 ### Types of computational data:
 - Numeric: It refers to all the dta represented with numbers.
 - Logic: It means all the data described as much as possible
-- String and characters: Strngs refers to the integration of text, and characters are any kind of letter, number or symble that can be written.
+- String and characters: Strings refers to the integration of text, and characters are any kind of letter, number or symble that can be written.
 - Arrangements: It means putting in an specific order
 
 ### Representation of computational data:
